@@ -1,34 +1,47 @@
+<div align="center">
+
 # 👋 Hi, I'm Erfan
 
-### Java Backend Developer | Software Engineering Enthusiast
+### Java Backend Developer · Software Engineering Enthusiast
 
-I'm a Java developer passionate about building backend systems, understanding how software works under the hood, and continuously improving my engineering skills.
+Building backend systems, exploring software engineering, and learning by building real things.
 
-I learn by **building real projects, reading production code, exploring open source, and understanding the fundamentals behind the technologies I use.**
+<br>
+
+<a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/erfannvb">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
+I'm a Java developer passionate about building backend systems, understanding how software works under the hood, and continuously improving my engineering skills.
+
+I learn by **building real projects, reading production code, exploring open source, and understanding the fundamentals behind the technologies I use.**
+
 * ☕ Focused on **Java & Spring**
 * 💜 Exploring **C# & .NET**
 * 🐳 Working with **Docker**
 * 🔧 Using **Git & GitHub** for development and collaboration
-* 🌱 Currently deepening my knowledge of **Software Engineering, System Design & Distributed Systems**
+* 🌱 Deepening my knowledge of **Software Engineering, System Design & Distributed Systems**
 * 🌍 Exploring and contributing to **Open Source**
 * 🧠 Learning about **AI & LLMs**
-* 🛠️ I believe the best way to learn is by **building, experimenting, and understanding**
 
 ---
 
 ## ⚙️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,docker,git&perline=6" />
+
+</div>
 
 ---
 
@@ -36,19 +49,13 @@ I learn by **building real projects, reading production code, exploring open sou
 
 I'm exploring the Java open-source ecosystem and working toward contributing to real-world projects.
 
-I'm particularly interested in:
+**Areas I'm interested in:**
 
-* Java infrastructure
-* Backend systems
-* Distributed systems
-* Developer tooling
-* Performance & scalability
-* Networking
-* Software architecture
+`Java Infrastructure` · `Backend Systems` · `Distributed Systems` · `Developer Tooling` · `Performance & Scalability` · `Networking` · `Software Architecture`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -56,15 +63,36 @@ I'm particularly interested in:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## 📌 What I'm Working On
+
+* 🚀 Building backend projects with **Java & Spring**
+* 🧩 Strengthening my **software engineering fundamentals**
+* 🏗️ Learning **system design & distributed systems**
+* 🌍 Exploring **Java open source projects**
+* 💜 Developing my skills with **C# & .NET**
+* 🧠 Exploring the fundamentals of **AI & LLMs**
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/erfan-navab-86b0a81a3/)
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
 
