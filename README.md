@@ -1,15 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Erfan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Erfan+👋;Java+Backend+Developer;Software+Engineering+Enthusiast;Always+Learning+%26+Building" />
 
-### Java Backend Developer · Software Engineering Enthusiast
-
-Building backend systems, exploring software engineering, and learning by building real things.
+### ☕ Java · 🌱 Spring · 💜 C# · 🔷 .NET · 🦀 Rust
 
 <br>
 
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/erfannvb">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,6 +44,56 @@ I learn by **building real projects, reading production code, exploring open sou
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔗 [URL Shortener](https://github.com/erfannvb/url-shortener)
+
+A backend service for creating short URLs and redirecting users to their original destinations.
+
+`Java` `Spring Boot` `REST API` `JPA` `Redis`
+
+---
+
+### 🌐 [URL Metadata Extractor](https://github.com/erfannvb/url-metadata-extractor)
+
+A backend service for retrieving content from remote URLs while handling redirects, timeouts, connection failures, and response-size limits.
+
+`Java` `Spring Boot` `RestClient` `HTTP` `Networking`
+
+---
+
+### 🧠 Personal Knowledge Manager
+
+A backend application for organizing and managing personal knowledge.
+
+`Java` `Spring Boot` `REST API` `Software Architecture`
+
+---
+
+### 📁 Duplicate File Finder
+
+A utility for detecting duplicate files through content-based comparison.
+
+`Java` `File Systems` `Hashing`
+
+---
+
+### 🐢 Crafting Interpreters — Lox
+
+Implementing the Java version of the Lox programming language while studying *Crafting Interpreters*.
+
+`Java` `Interpreters` `Compilers` `Lexing` `Parsing` `ASTs`
+
+---
+
+### 💜 C# Learning
+
+A collaborative repository for learning C# and .NET through practical projects.
+
+`C#` `.NET` `OOP` `Software Development`
+
+---
+
 ## 🌍 Open Source
 
 I'm exploring the Java open-source ecosystem and working toward contributing to real-world projects.
@@ -56,60 +104,24 @@ I'm exploring the Java open-source ecosystem and working toward contributing to 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 [URL Shortener](https://github.com/erfannvb/url-shortener)
-
-A backend service for creating short URLs and redirecting users to their original destinations.
-
-**Java · Spring Boot · REST API · JPA · Redis**
-
-### 🌐 [URL Metadata Extractor](https://github.com/erfannvb/url-metadata-extractor)
-
-A backend service for retrieving content from remote URLs while handling redirects, timeouts, connection failures, and response-size limits.
-
-**Java · Spring Boot · RestClient · HTTP · Networking**
-
-### 🧠 Personal Knowledge Manager
-
-A backend application for organizing and managing personal knowledge.
-
-**Java · Spring Boot · REST API · Software Architecture**
-
-### 📁 Duplicate File Finder
-
-A utility for detecting duplicate files through content-based comparison.
-
-**Java · File Systems · Hashing**
-
-### 🐢 Crafting Interpreters — Lox
-
-Implementing the Java version of the Lox programming language while studying *Crafting Interpreters*.
-
-**Java · Interpreters · Compilers · Lexing · Parsing · ASTs**
-
-### 💜 C# Learning
-
-A collaborative repository for learning C# and .NET through practical projects.
-
-**C# · .NET · OOP · Software Development**
-
----
-
 ## 📚 Currently Learning
 
-* 🏗️ **Software Engineering & System Design**
-* 🌐 **Distributed Systems**
-* ☕ **Advanced Java & JVM**
-* 🌍 **Open Source Development**
-* 🧠 **AI & LLM Fundamentals**
-* 🦀 **Rust**
+<div align="center">
+
+🏗️ **Software Engineering**
+🌐 **System Design & Distributed Systems**
+☕ **Advanced Java & JVM**
+🌍 **Open Source Development**
+🧠 **AI & LLM Fundamentals**
+🦀 **Rust**
+
+</div>
 
 I prefer **project-based learning**: build something, encounter a problem, research it, understand the underlying concept, and apply it.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
