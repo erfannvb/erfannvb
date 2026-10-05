@@ -33,6 +33,7 @@ I learn by **building real projects, reading production code, exploring open sou
 * ☕ Focused on **Java & Spring**
 * 💜 Exploring **C# & .NET**
 * 🦀 Learning **Rust**
+* 🗄️ Working with **relational and NoSQL databases**
 * 🐳 Working with **Docker**
 * 🔧 Using **Git & GitHub** for development and collaboration
 * 🌱 Deepening my knowledge of **Software Engineering, System Design & Distributed Systems**
@@ -43,9 +44,31 @@ I learn by **building real projects, reading production code, exploring open sou
 
 ## ⚙️ Tech Stack
 
+### 💻 Languages & Frameworks
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,docker,git,rust&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,rust&perline=5" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" />
+
+<br>
+
+**PostgreSQL · Oracle Database · MongoDB**
+
+</div>
+
+### 🛠️ Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git&perline=2" />
 
 </div>
 
