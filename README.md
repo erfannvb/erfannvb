@@ -56,7 +56,7 @@ I learn by **building real projects, reading production code, exploring open sou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb&perline=3" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=3" />
 
 </div>
 
