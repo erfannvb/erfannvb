@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Erfan+👋;Java+Backend+Developer;Software+Engineering+Enthusiast;Always+Learning+%26+Building" />
+# 👋 Erfan
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Java+Backend+Developer;Software+Engineering+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+</a>
+
+<br>
 
 ### ☕ Java · 🌱 Spring · 💜 C# · 🔷 .NET · 🦀 Rust
 
@@ -9,6 +15,7 @@
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/erfannvb">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -108,11 +115,12 @@ I'm exploring the Java open-source ecosystem and working toward contributing to 
 
 <div align="center">
 
-🏗️ **Software Engineering**
-🌐 **System Design & Distributed Systems**
+🏗️ **Software Engineering**   ·  
+🌐 **System Design & Distributed Systems**   ·  
 ☕ **Advanced Java & JVM**
-🌍 **Open Source Development**
-🧠 **AI & LLM Fundamentals**
+
+🌍 **Open Source Development**   ·  
+🧠 **AI & LLM Fundamentals**   ·  
 🦀 **Rust**
 
 </div>
