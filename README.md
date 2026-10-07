@@ -1,16 +1,10 @@
 <div align="center">
 
-# 💻 Erfan
+# 💻 Erfan Navab
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Java+Backend+Developer;Software+Engineering+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</a>
+### Java Backend Developer · Software Engineer
 
-<br>
-
-### ☕ Java · 🌱 Spring · 💜 C# · 🔷 .NET · 🦀 Rust
-
-<br>
+**4+ years of professional experience building backend systems with Java and Spring Boot.**
 
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,19 +20,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Java developer passionate about building backend systems, understanding how software works under the hood, and continuously improving my engineering skills.
+I'm a **Java Backend Developer with 4+ years of professional experience** building backend applications and working with the technologies behind modern software systems.
 
-I learn by **building real projects, reading production code, exploring open source, and understanding the fundamentals behind the technologies I use.**
+My primary focus is **Java, Spring Boot, backend architecture, API development, databases, and distributed systems**. I care about writing maintainable software, understanding how systems behave under the hood, and making sound engineering decisions.
 
-* ☕ Focused on **Java & Spring**
-* 💜 Exploring **C# & .NET**
-* 🦀 Learning **Rust**
-* 🗄️ Working with **relational and NoSQL databases**
-* 🐳 Working with **Docker**
-* 🔧 Using **Git & GitHub** for development and collaboration
-* 🌱 Deepening my knowledge of **Software Engineering, System Design & Distributed Systems**
-* 🌍 Exploring and contributing to **Open Source**
-* 🧠 Learning about **AI & LLMs**
+Outside of my professional work, I continuously deepen my understanding of software engineering by building projects, reading production code, exploring open source, and studying the fundamentals behind the technologies I use.
+
+* ☕ **Java Backend Development** — Java, Spring Boot, REST APIs
+* 🏗️ **Software Engineering** — OOP, design principles, architecture, testing
+* 🗄️ **Data & Persistence** — PostgreSQL, MongoDB, JPA
+* 🌐 **Backend & Distributed Systems** — HTTP, caching, networking, system design
+* 🐳 **Infrastructure & Tooling** — Docker, Git, GitHub
+* 🌍 **Open Source** — Exploring and contributing to the Java ecosystem
+* 🧠 **Computer Science** — JVM internals, interpreters, programming languages
+* 🤖 **AI & LLMs** — Exploring the fundamentals and practical applications
 
 ---
 
@@ -70,7 +65,7 @@ I learn by **building real projects, reading production code, exploring open sou
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🔗 [URL Shortener](https://github.com/erfannvb/url-shortener)
 
@@ -82,7 +77,7 @@ A backend service for creating short URLs and redirecting users to their origina
 
 ### 🌐 [URL Metadata Extractor](https://github.com/erfannvb/url-metadata-extractor)
 
-A backend service for retrieving content from remote URLs while handling redirects, timeouts, connection failures, and response-size limits.
+A backend service for retrieving content from remote URLs with explicit handling for redirects, timeouts, connection failures, and response-size limits.
 
 `Java` `Spring Boot` `RestClient` `HTTP` `Networking`
 
@@ -90,7 +85,7 @@ A backend service for retrieving content from remote URLs while handling redirec
 
 ### 🧠 Personal Knowledge Manager
 
-A backend application for organizing and managing personal knowledge.
+A backend application for organizing and managing personal knowledge, with an emphasis on API design, maintainability, and software architecture.
 
 `Java` `Spring Boot` `REST API` `Software Architecture`
 
@@ -98,7 +93,7 @@ A backend application for organizing and managing personal knowledge.
 
 ### 📁 Duplicate File Finder
 
-A utility for detecting duplicate files through content-based comparison.
+A utility for detecting duplicate files through content-based comparison and hashing.
 
 `Java` `File Systems` `Hashing`
 
@@ -106,15 +101,15 @@ A utility for detecting duplicate files through content-based comparison.
 
 ### 🐢 Crafting Interpreters — Lox
 
-Implementing the Java version of the Lox programming language while studying *Crafting Interpreters*.
+A Java implementation of the Lox programming language while studying interpreter design and the fundamentals of programming language implementation.
 
 `Java` `Interpreters` `Compilers` `Lexing` `Parsing` `ASTs`
 
 ---
 
-### 💜 C# Learning
+### 💜 [C# Learning](https://github.com/erfannvb/csharp-learning)
 
-A collaborative repository for learning C# and .NET through practical projects.
+A collaborative repository for exploring C# and .NET through practical software projects.
 
 `C#` `.NET` `OOP` `Software Development`
 
@@ -122,43 +117,88 @@ A collaborative repository for learning C# and .NET through practical projects.
 
 ## 🌍 Open Source
 
-I'm exploring the Java open-source ecosystem and working toward contributing to real-world projects.
+I'm exploring the Java open-source ecosystem and working toward contributing to production-grade projects.
 
-**Areas I'm interested in:**
+I'm particularly interested in:
 
-`Java Infrastructure` · `Backend Systems` · `Distributed Systems` · `Developer Tooling` · `Performance & Scalability` · `Networking` · `Software Architecture`
+`Java Infrastructure` · `Backend Systems` · `Distributed Systems` · `Developer Tooling` · `Networking` · `Performance` · `Software Architecture`
 
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-🏗️ **Software Engineering**   ·  
-🌐 **System Design & Distributed Systems**   ·  
-☕ **Advanced Java & JVM**
-
-🌍 **Open Source Development**   ·  
-🧠 **AI & LLM Fundamentals**   ·  
-🦀 **Rust**
-
-</div>
-
-I prefer **project-based learning**: build something, encounter a problem, research it, understand the underlying concept, and apply it.
+I enjoy reading real-world codebases to understand how large software systems are designed, implemented, tested, and maintained.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Engineering Interests
+
+Beyond my day-to-day backend development, I'm interested in understanding software at a deeper level.
+
+### ☕ Java & JVM
+
+* JVM internals
+* Concurrency
+* Memory model
+* Garbage collection
+* Java language features
+* Performance
+
+### 🏗️ Software Engineering
+
+* Software architecture
+* Design principles
+* System design
+* Distributed systems
+* Testing
+* Maintainability
+
+### 🔬 Computer Science
+
+* Interpreters & compilers
+* Programming language design
+* Networking
+* Operating systems
+* Computer architecture
+
+### 🚀 Exploring
+
+* C# & .NET
+* Rust
+* AI & LLMs
+* Open-source development
+
+---
+
+## 📚 How I Learn
+
+I prefer **project-based learning** over following tutorials indefinitely.
+
+My approach is simple:
+
+**Build → Encounter a Problem → Research → Understand → Apply → Review → Improve**
+
+I also enjoy reading books, production code, and open-source projects to understand not only **how** something works, but **why** it was designed that way.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erfannvb&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erfannvb&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erfannvb&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -178,6 +218,6 @@ I prefer **project-based learning**: build something, encounter a problem, resea
 
 <div align="center">
 
-### 💡 Build. Learn. Understand. Improve.
+### 💡 Build. Understand. Improve.
 
 </div>
