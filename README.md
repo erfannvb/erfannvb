@@ -4,7 +4,7 @@
 
 ### Java Backend Developer · Software Engineer
 
-**4+ years of professional experience building backend systems with Java and Spring Boot.**
+**4+ years of professional experience building backend systems with Java, Spring Boot, Java EE, and related technologies.**
 
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,11 +22,11 @@
 
 I'm a **Java Backend Developer with 4+ years of professional experience** building backend applications and working with the technologies behind modern software systems.
 
-My primary focus is **Java, Spring Boot, backend architecture, API development, databases, and distributed systems**. I care about writing maintainable software, understanding how systems behave under the hood, and making sound engineering decisions.
+My primary focus is **Java, Spring Boot, Java EE, backend architecture, API development, databases, and distributed systems**. I care about writing maintainable software, understanding how systems behave under the hood, and making sound engineering decisions.
 
 Outside of my professional work, I continuously deepen my understanding of software engineering by building projects, reading production code, exploring open source, and studying the fundamentals behind the technologies I use.
 
-* ☕ **Java Backend Development** — Java, Spring Boot, REST APIs
+* ☕ **Java Backend Development** — Java, Spring Boot, Java EE, JSP, Apache Struts, REST APIs
 * 🏗️ **Software Engineering** — OOP, design principles, architecture, testing
 * 🗄️ **Data & Persistence** — PostgreSQL, MongoDB, JPA
 * 🌐 **Backend & Distributed Systems** — HTTP, caching, networking, system design
@@ -46,6 +46,8 @@ Outside of my professional work, I continuously deepen my understanding of softw
 <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,rust&perline=5" />
 
 </div>
+
+**Java Ecosystem:** `Spring Boot` · `Java EE` · `JSP` · `Apache Struts`
 
 ### 🗄️ Databases
 
