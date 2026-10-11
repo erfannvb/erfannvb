@@ -152,13 +152,19 @@ I prefer **project-based learning**: build something, encounter a problem, resea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<a href="https://github.com/erfannvb">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Erfan's GitHub Stats" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/erfannvb">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/erfannvb">
+  <img width="70%" src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
