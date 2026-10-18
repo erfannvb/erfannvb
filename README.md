@@ -2,17 +2,19 @@
 
 # Erfan Navab
 
-**Java Backend Developer · Software Engineering Enthusiast**
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=18&duration=3500&pause=1200&color=539BF5&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+real-world+software;Understanding+how+things+work;Learning+through+building+and+exploration" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Java+Backend+Developer;Software+Engineering+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </a>
+
+**Backend Development · Software Engineering · Open Source**
+
+<br/>
 
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/erfannvb">
-  <img src="https://img.shields.io/badge/GitHub-Profile-57606A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -25,14 +27,15 @@ I'm a Java developer passionate about building backend systems, understanding ho
 
 I learn by **building real projects, reading production code, exploring open source, and understanding the fundamentals behind the technologies I use.**
 
-- Focused on **Java SE, Spring Boot, and the Java ecosystem**
-- Exploring **JSP and jBPM**
-- Exploring **C# and .NET**
-- Learning **Rust**
-- Working with **relational and NoSQL databases**
-- Working with **Docker** and using **Git and GitHub** for development and collaboration
-- Deepening my knowledge of **Software Engineering, System Design, and Distributed Systems**
-- Exploring and contributing to **Open Source**
+- ☕ Focused on **Java SE, Spring Boot, and the Java ecosystem**
+- 🌐 Exploring **JSP and jBPM**
+- 💜 Exploring **C# and .NET**
+- 🦀 Learning **Rust**
+- 🗄️ Working with **relational and NoSQL databases**
+- 🐳 Working with **Docker**
+- 🔧 Using **Git and GitHub** for development and collaboration
+- 🏗️ Deepening my knowledge of **Software Engineering, System Design, and Distributed Systems**
+- 🌍 Exploring and contributing to **Open Source**
 
 ---
 
@@ -42,15 +45,15 @@ I learn by **building real projects, reading production code, exploring open sou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,rust&theme=light&perline=5" alt="Java, Spring, C#, .NET, and Rust" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,rust&theme=dark&perline=5" alt="Java, Spring, C#, .NET, and Rust" />
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java_SE-Core_Java-ED8B00?style=flat-square" alt="Java SE" />
-<img src="https://img.shields.io/badge/JSP-JavaServer_Pages-4479A1?style=flat-square" alt="JSP" />
-<img src="https://img.shields.io/badge/jBPM-Business_Process_Management-4479A1?style=flat-square" alt="jBPM" />
+<img src="https://img.shields.io/badge/Java_SE-Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java SE" />
+<img src="https://img.shields.io/badge/JSP-JavaServer_Pages-6E40C9?style=flat-square" alt="JSP" />
+<img src="https://img.shields.io/badge/jBPM-Business_Process_Management-6E40C9?style=flat-square" alt="jBPM" />
 
 </div>
 
@@ -58,7 +61,7 @@ I learn by **building real projects, reading production code, exploring open sou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
 
 <br/>
 
@@ -70,7 +73,7 @@ I learn by **building real projects, reading production code, exploring open sou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git&theme=light&perline=2" alt="Docker and Git" />
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark&perline=2" alt="Docker and Git" />
 
 </div>
 
@@ -80,25 +83,47 @@ I learn by **building real projects, reading production code, exploring open sou
 
 I'm exploring the Java open-source ecosystem and working toward contributing to real-world projects.
 
-**Areas of interest**
+**Areas I'm interested in:**
 
-`Java Infrastructure` · `Backend Systems` · `Distributed Systems` · `Developer Tooling` · `Performance & Scalability` · `Networking` · `Software Architecture`
+<div align="center">
 
-I enjoy exploring established codebases, investigating bugs, understanding engineering decisions, and contributing meaningful improvements.
+<img src="https://img.shields.io/badge/Java_Infrastructure-1F6FEB?style=flat-square" alt="Java Infrastructure" />
+<img src="https://img.shields.io/badge/Backend_Systems-1F6FEB?style=flat-square" alt="Backend Systems" />
+<img src="https://img.shields.io/badge/Distributed_Systems-6E40C9?style=flat-square" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/Developer_Tooling-6E40C9?style=flat-square" alt="Developer Tooling" />
+<img src="https://img.shields.io/badge/Performance_%26_Scalability-1F6FEB?style=flat-square" alt="Performance and Scalability" />
+<img src="https://img.shields.io/badge/Networking-1F6FEB?style=flat-square" alt="Networking" />
+<img src="https://img.shields.io/badge/Software_Architecture-6E40C9?style=flat-square" alt="Software Architecture" />
+
+</div>
+
+I enjoy understanding established codebases, investigating bugs, and learning from the engineering decisions behind real-world software.
 
 ---
 
 ## Currently Learning
 
+<div align="center">
+
 | Area | Focus |
 |:---|:---|
-| **Java** | Advanced Java and JVM internals |
-| **Software Engineering** | Design principles and maintainability |
-| **System Design** | Distributed systems and scalability |
-| **Open Source** | Code exploration and contributions |
-| **Rust** | Language fundamentals and ownership |
+| ☕ **Java** | Advanced Java, JVM internals |
+| 🏗️ **Software Engineering** | Design principles, maintainability |
+| 🌐 **System Design** | Distributed systems, scalability |
+| 🌍 **Open Source** | Code exploration, issues, contributions |
+| 🦀 **Rust** | Language fundamentals, ownership |
 
-My preferred learning approach is **project-based learning**: build something, encounter a problem, research it, understand the underlying concept, and apply it.
+</div>
+
+My preferred learning approach is **project-based learning**:
+
+<div align="center">
+
+`BUILD` → `INVESTIGATE` → `UNDERSTAND` → `APPLY` → `IMPROVE`
+
+</div>
+
+I prefer building something, encountering a problem, researching it, understanding the underlying concept, and applying what I've learned.
 
 ---
 
@@ -107,35 +132,37 @@ My preferred learning approach is **project-based learning**: build something, e
 <div align="center">
 
 <a href="https://github.com/erfannvb">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=erfannvb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Erfan's GitHub Stats" />
 </a>
 <a href="https://github.com/erfannvb">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfannvb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/erfannvb">
-  <img width="75%" src="https://streak-stats.demolab.com?user=erfannvb&theme=default&hide_border=true" alt="GitHub contribution streak" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=erfannvb&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
 
 ---
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/erfan-navab-86b0a81a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 <a href="https://github.com/erfannvb">
-  <img src="https://img.shields.io/badge/GitHub-Follow-57606A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Profile-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub profile" />
 </a>
 
 <br/><br/>
 
-*Build. Learn. Understand. Improve.*
+### Building better software, one project at a time.
+
+<sub>Always learning. Always building. Always improving.</sub>
 
 </div>
